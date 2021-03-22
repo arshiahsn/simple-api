@@ -138,6 +138,6 @@ Project Link: [https://github.com/arshiahsn/simple_api](https://github.com/arshi
 [issues-shield]: https://img.shields.io/github/issues/arshiahsn/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/arshiahsn/repo/issues
 [license-shield]: https://img.shields.io/github/license/arshiahsn/repo.svg?style=for-the-badge
-[license-url]: https://github.com/arshiahsn/simple_api/LICENSE.txt
+[license-url]: https://github.com/arshiahsn/simple_api/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arshiahsn
