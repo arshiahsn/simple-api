@@ -64,11 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`arshiahsn`, `simple_api`, `twitter_handle`, `arshiahsn@gmail.com`, `A Simple API`, `This simple program consumes an API by sending multiple parallel requests. Then it removes repetitive data and sorts it based on the user's request.`
+This project was developed to practice my back-end skills.
 
 
 ### Built With
@@ -82,13 +78,6 @@ Here's a blank template to get started:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -100,7 +89,20 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    ./mvnw clean install
    ```
+   
+### Running
 
+
+  ```sh
+  ./mvnw run
+  ```
+  
+### Usage
+Open your browser and navigate to:
+
+  ```sh
+  localhost:8080/posts?
+  ```
 
 
 <!-- CONTRIBUTING -->
